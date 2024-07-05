@@ -3,11 +3,12 @@
 ## Ujian Akhir Semester Mata Kuliah Grafika Komputer
 
 ### Kelompok 7
-1. Euis Nurhanifah
-2. Siti Jahro Maulidiyah
-3. Siti Nurhayati Gunawan
-4. Sumitra Adriansyah
-5. Wildan Sophal Jamil
+1. Euis Nurhanifah (1217050046)
+2. Siti Jahro Maulidiyah (1217050134)
+3. Siti Nurhayati Gunawan (1217050135)
+4. Sumitra Adriansyah (1217050137)
+5. Wildan Sophal Jamil (1217050142)
+
 
 ## Deskripsi Aplikasi
 ARnimal adalah aplikasi inovatif yang menggabungkan teknologi Augmented Reality (AR) dengan pendidikan agama Islam. Aplikasi ini dirancang untuk meningkatkan pengalaman belajar tentang hewan-hewan yang disebutkan dalam Al-Qur'an. 
