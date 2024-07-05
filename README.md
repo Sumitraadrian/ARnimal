@@ -31,7 +31,7 @@ ARnimal bertujuan untuk:
 
 ## Video Demo Aplikasi
 Untuk video demo aplikasi dapat diunggah pada link ini:
-- **[Demo ARnimal]()**
+- **[Demo ARnimal](https://youtu.be/tFdJlXj5ut0?si=PUQH_5B9AlikBPua)**
 
 ## Laporan Pengembangan Aplikasi
 Untuk laporan pengembangan aplikasi dapat diunggah pada link ini:
