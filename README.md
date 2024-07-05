@@ -32,6 +32,10 @@ ARnimal bertujuan untuk:
 Untuk video demo aplikasi dapat diunggah pada link ini:
 - **[Demo ARnimal]()**
 
+## Laporan Pengembangan Aplikasi
+Untuk laporan pengembangan aplikasi dapat diunggah pada link ini:
+- **[Laporan Pengembangan Aplikasi ARnimal](https://drive.google.com/file/d/1qjpo9DzI0GGpABQfk-1aL-CRj5RxqRiB/view?usp=drive_link)**
+
 ---
 
 Dibuat sebagai bagian dari Ujian Akhir Semester Mata Kuliah Grafika Komputer.
